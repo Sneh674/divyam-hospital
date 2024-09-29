@@ -1,0 +1,17 @@
+nav{
+    background-color: white;
+    padding: 3px;
+    padding-left: 15px;
+    gap: 5vw;
+    font-size: x-large;
+    color: rgb(90, 165, 208);
+    align-items: center;
+}
+
+Link{
+    text-decoration: none;
+}
+
+.logo{
+    width: 12vw;
+}

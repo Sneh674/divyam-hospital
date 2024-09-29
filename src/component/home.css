@@ -1,0 +1,23 @@
+.sdr{
+    height: 50vh;
+}
+
+.homemain{
+    background-color: antiquewhite;
+}
+
+.welcome{
+    padding-left: 10%;
+    /* display:flex;
+    justify-content: center;
+    align-items: center; */
+    font-size: 70px;
+    text-wrap: balance;
+    color: rgb(90, 165, 208);
+}
+
+.homeimg{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
