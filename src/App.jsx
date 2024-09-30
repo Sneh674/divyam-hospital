@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import { createBrowserRouter, RouterProvider, Link } from 'react-router-dom'
+import { createBrowserRouter, RouterProvider, HashRouter, Link } from 'react-router-dom'
 import Contact from './component/Contact'
 import Home from './component/Home'
 import About from './component/About'
@@ -14,7 +14,7 @@ function App() {
     {
       path: "/",
       element: <><Navbar/><Home /></>,
-      errorElement: <div>error</div>
+      errorElement: <div>errorrrrr</div>
     },
     {
       path: "/about",
